@@ -42,3 +42,21 @@ Record the code of the programming exercises completed each day
 5. LeetCode 876. 链表的中间结点 \
 题目链接：https://leetcode.cn/problems/middle-of-the-linked-list/description/ \
 解题编程语言：C语言
+
+# 日期：2023/10/17
+
+1. 牛客网 链表中倒数第k个结点 \
+题目链接：https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&&tqId=11167&rp=2&ru=/activity/oj&qru=/ta/coding-interviews/question-ranking \
+解题编程语言：C语言
+
+2. LeetCode 21. 合并两个有序链表 \
+题目链接：https://leetcode.cn/problems/merge-two-sorted-lists/description/ \
+解题编程语言：C语言
+
+3. 牛客网 CM11 链表分割 \
+题目链接：https://www.nowcoder.com/practice/0e27e0b064de4eacac178676ef9c9d70?tpId=8&&tqId=11004&rp=2&ru=/activity/oj&qru=/ta/cracking-the-coding-interview/question-ranking \
+解题编程语言：C语言
+
+4. 牛客网 OR36 链表的回文结构 \
+题目链接：https://www.nowcoder.com/practice/d281619e4b3e4a60a2cc66ea32855bfa?tpId=49&&tqId=29370&rp=1&ru=/activity/oj&qru=/ta/2016test/question-ranking \
+解题编程语言：C语言
