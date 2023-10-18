@@ -60,3 +60,15 @@ Record the code of the programming exercises completed each day
 4. 牛客网 OR36 链表的回文结构 \
 题目链接：https://www.nowcoder.com/practice/d281619e4b3e4a60a2cc66ea32855bfa?tpId=49&&tqId=29370&rp=1&ru=/activity/oj&qru=/ta/2016test/question-ranking \
 解题编程语言：C语言
+
+# 日期：2023/10/18
+更新为以下格式：
+
+1. LeetCode [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) \
+解题编程语言：C语言
+
+2. LeetCode [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/description/) \
+解题编程语言：C语言
+
+1. LeetCode [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/description/) \
+解题编程语言：C语言
