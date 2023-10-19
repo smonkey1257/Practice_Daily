@@ -70,5 +70,12 @@ Record the code of the programming exercises completed each day
 2. LeetCode [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle/description/) \
 解题编程语言：C语言
 
-1. LeetCode [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/description/) \
+3. LeetCode [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/description/) \
+解题编程语言：C语言
+
+# 日期：2023/10/19
+
+1. LeetCode [138. 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer/description/) \
+解题编程语言：C语言
+2. LeetCode [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/description/) \
 解题编程语言：C语言
