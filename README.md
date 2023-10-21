@@ -89,3 +89,16 @@ Record the code of the programming exercises completed each day
     解题编程语言：C语言
 3. LeetCode [101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree/) \
     解题编程语言：C语言
+
+# 日期：2023/10/21
+
+1. LeetCode [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) \
+   解题编程语言：C语言
+2. LeetCode [94. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) \
+   解题编程语言：C语言
+3. LeetCode [145. 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) \
+   解题编程语言：C语言
+
+4. LeetCode [572. 另一棵树的子树](https://leetcode.cn/problems/subtree-of-another-tree/) \
+
+   解题编程语言：C语言
