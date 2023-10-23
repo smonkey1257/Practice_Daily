@@ -98,3 +98,27 @@ Record the code of the programming exercises completed each day
    解题编程语言：C语言
 3. LeetCode [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) \
    解题编程语言：C语言
+
+# 日期：2023/10/23
+
+1. 牛客网 [打印从1到最大的n位数](https://www.nowcoder.com/practice/4436c93e568c48f6b28ff436173b997f?tpId=13&tqId=2273153&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) \
+   解题编程语言：C语言
+
+2. 牛客网 [计算日期到天数转换](https://www.nowcoder.com/practice/769d45d455fe40b385ba32f97e7bcded?tpId=37&&tqId=21296&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking) \
+   解题编程语言：C语言
+
+3. 牛客网 [定义变量](https://www.nowcoder.com/practice/3ddbc410017a4da48f05a6c8619b32d2?tpId=225&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj&difficulty=&judgeStatus=&tags=&title=&gioEnter=menu)\
+
+   解题编程语言：C++
+
+4. 牛客网 [实现四舍五入](https://www.nowcoder.com/practice/020a0cf673174d5795d97ae79cff59a0?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
+
+   解题编程语言：C++
+
+5. 牛客网 [两数求和](https://www.nowcoder.com/practice/f1b704af4f654be285552bea53ce6534?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
+
+   解题编程语言：C++
+
+6. 牛客网 [获取两数中的较大值](https://www.nowcoder.com/practice/136bd5e1021d4d698b9f5227d7dfb684?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
+
+   解题编程语言：C++
