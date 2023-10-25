@@ -101,60 +101,83 @@ Record the code of the programming exercises completed each day
 
 # 日期：2023/10/23
 
-1. 牛客网 [打印从1到最大的n位数](https://www.nowcoder.com/practice/4436c93e568c48f6b28ff436173b997f?tpId=13&tqId=2273153&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) \
+1. 牛客网 [打印从1到最大的n位数](https://www.nowcoder.com/practice/4436c93e568c48f6b28ff436173b997f?tpId=13&tqId=2273153&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)\
    解题编程语言：C语言
 
-2. 牛客网 [计算日期到天数转换](https://www.nowcoder.com/practice/769d45d455fe40b385ba32f97e7bcded?tpId=37&&tqId=21296&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking) \
+2. 牛客网 [计算日期到天数转换](https://www.nowcoder.com/practice/769d45d455fe40b385ba32f97e7bcded?tpId=37&&tqId=21296&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking)\
    解题编程语言：C语言
 
-3. 牛客网 [CPP1 定义变量](https://www.nowcoder.com/practice/3ddbc410017a4da48f05a6c8619b32d2?tpId=225&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj&difficulty=&judgeStatus=&tags=&title=&gioEnter=menu) \
+3. 牛客网 [CPP1 定义变量](https://www.nowcoder.com/practice/3ddbc410017a4da48f05a6c8619b32d2?tpId=225&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj&difficulty=&judgeStatus=&tags=&title=&gioEnter=menu)\
 
    解题编程语言：C++
 
-4. 牛客网 [CPP2 实现四舍五入](https://www.nowcoder.com/practice/020a0cf673174d5795d97ae79cff59a0?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+4. 牛客网 [CPP2 实现四舍五入](https://www.nowcoder.com/practice/020a0cf673174d5795d97ae79cff59a0?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
 
-5. 牛客网 [CPP3 两数求和](https://www.nowcoder.com/practice/f1b704af4f654be285552bea53ce6534?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+5. 牛客网 [CPP3 两数求和](https://www.nowcoder.com/practice/f1b704af4f654be285552bea53ce6534?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
 
-6. 牛客网 [CPP4 获取两数中的较大值](https://www.nowcoder.com/practice/136bd5e1021d4d698b9f5227d7dfb684?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+6. 牛客网 [CPP4 获取两数中的较大值](https://www.nowcoder.com/practice/136bd5e1021d4d698b9f5227d7dfb684?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
 
 # 日期：2023/10/24
 
-1. 牛客网 [CPP5 简单运算](https://www.nowcoder.com/practice/23c9b22d40fa4d7698a1306fb0c9f975?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+1. 牛客网 [CPP5 简单运算](https://www.nowcoder.com/practice/23c9b22d40fa4d7698a1306fb0c9f975?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
    解题编程语言：C语言
 
-2. 牛客网 [CPP6 交换两个变量的值](https://www.nowcoder.com/practice/2c577d21ca334724aa5807744256b6f2?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+2. 牛客网 [CPP6 交换两个变量的值](https://www.nowcoder.com/practice/2c577d21ca334724aa5807744256b6f2?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
    解题编程语言：C语言
 
-3. 牛客网 [CPP7 获取三个数中的最大值（三元表达式实现）](https://www.nowcoder.com/practice/d7d48b7b44df46889137ec19d924bb14?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+3. 牛客网 [CPP7 获取三个数中的最大值（三元表达式实现）](https://www.nowcoder.com/practice/d7d48b7b44df46889137ec19d924bb14?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
 
-4. 牛客网 [CPP8 计算商品打折结算金额](https://www.nowcoder.com/practice/055a92b5c93f497291a58c232f59fae9?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+4. 牛客网 [CPP8 计算商品打折结算金额](https://www.nowcoder.com/practice/055a92b5c93f497291a58c232f59fae9?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
 
-5. 牛客网 [CPP9 判断身材状态](https://www.nowcoder.com/practice/6f4afb0f8be64d5eaf65a205b8584888?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+5. 牛客网 [CPP9 判断身材状态](https://www.nowcoder.com/practice/6f4afb0f8be64d5eaf65a205b8584888?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
 
-6. 牛客网 [CPP10 判断成绩等级](https://www.nowcoder.com/practice/1a12e246764243ada9043699b9a1e7ef?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+6. 牛客网 [CPP10 判断成绩等级](https://www.nowcoder.com/practice/1a12e246764243ada9043699b9a1e7ef?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
 
-7. 牛客网 [CPP11 判断季节](https://www.nowcoder.com/practice/741a9b79fabe474cb153a49b4bff5828?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+7. 牛客网 [CPP11 判断季节](https://www.nowcoder.com/practice/741a9b79fabe474cb153a49b4bff5828?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
 
-8. 牛客网 [CPP12 求 1 - n 之间偶数的和](https://www.nowcoder.com/practice/03df7fa0950046a9ba564b4438f918a3?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+8. 牛客网 [CPP12 求 1 - n 之间偶数的和](https://www.nowcoder.com/practice/03df7fa0950046a9ba564b4438f918a3?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
 
-9. 牛客网 [CPP13 计算一个数的阶乘](https://www.nowcoder.com/practice/b0423a89826c4d68a3e8b9832a6a1f49?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+9. 牛客网 [CPP13 计算一个数的阶乘](https://www.nowcoder.com/practice/b0423a89826c4d68a3e8b9832a6a1f49?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj)\
 
    解题编程语言：C++
+
+# 日期：2023/10/25
+1. 牛客网 [CPP14 输出水仙花数](https://www.nowcoder.com/practice/dabaf13009ef4d0cbf22302fd6a530a6?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+  解题编程语言：C++
+
+2. 牛客网 [CPP15 打印乘法表](https://www.nowcoder.com/practice/4c1ec287030d4ca1be63b258f88ebcc1?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+  解题编程语言：C++
+
+3. 牛客网 [CPP16 规律数列求和](https://www.nowcoder.com/practice/e05d1c142b3d4898be7183289a00ce5f?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+  解题编程语言：C++
+
+4. 牛客网 [CPP17 计算小球走过的路程和反弹高度](https://www.nowcoder.com/practice/ac674f68367149d5ad1f857a379e69c9?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+  解题编程语言：C++
+
+5. 牛客网 [CPP18 判断一个数是不是质数](https://www.nowcoder.com/practice/b8bb5e7703da4a83ac7754c0f3d45a82?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+  解题编程语言：C++
+
+6. 牛客网 [CPP19 获取数组最值](https://www.nowcoder.com/practice/53d110f6cdd14f21af285698f975b59c?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+  解题编程语言：C++
+
+7. 牛客网 [数组元素反转](https://www.nowcoder.com/practice/8c9793ae96974a9ebb153d90ef31d357?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+
+  解题编程语言：C++
