@@ -161,23 +161,35 @@ Record the code of the programming exercises completed each day
 
 # 日期：2023/10/25
 1. 牛客网 [CPP14 输出水仙花数](https://www.nowcoder.com/practice/dabaf13009ef4d0cbf22302fd6a530a6?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
-  解题编程语言：C++
+     解题编程语言：C++
 
 2. 牛客网 [CPP15 打印乘法表](https://www.nowcoder.com/practice/4c1ec287030d4ca1be63b258f88ebcc1?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
-  解题编程语言：C++
+     解题编程语言：C++
 
 3. 牛客网 [CPP16 规律数列求和](https://www.nowcoder.com/practice/e05d1c142b3d4898be7183289a00ce5f?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
-  解题编程语言：C++
+     解题编程语言：C++
 
 4. 牛客网 [CPP17 计算小球走过的路程和反弹高度](https://www.nowcoder.com/practice/ac674f68367149d5ad1f857a379e69c9?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
-  解题编程语言：C++
+     解题编程语言：C++
 
 5. 牛客网 [CPP18 判断一个数是不是质数](https://www.nowcoder.com/practice/b8bb5e7703da4a83ac7754c0f3d45a82?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
-  解题编程语言：C++
+     解题编程语言：C++
 
 6. 牛客网 [CPP19 获取数组最值](https://www.nowcoder.com/practice/53d110f6cdd14f21af285698f975b59c?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
-  解题编程语言：C++
+     解题编程语言：C++
 
-7. 牛客网 [数组元素反转](https://www.nowcoder.com/practice/8c9793ae96974a9ebb153d90ef31d357?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
-
-  解题编程语言：C++
+7. 牛客网 [CPP20 数组元素反转](https://www.nowcoder.com/practice/8c9793ae96974a9ebb153d90ef31d357?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) \
+     解题编程语言：C++
+# 2023/10/26
+| 平台   | 题目                                                         | 解题编程语言 |
+| ------ | :----------------------------------------------------------- | ------------ |
+| 牛客网 | [CPP21 C++冒泡排序](https://www.nowcoder.com/practice/eb72dada09de43ceacf93f9a143ee321?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP22 C++选择排序](https://www.nowcoder.com/practice/3b6175426e704c0b9461628b2278631b?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP23 计算公司年销售额](https://www.nowcoder.com/practice/bab5d8338413431dab30d54711397ff8?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP24 字符串拼接](https://www.nowcoder.com/practice/167be62a4f66497dbf318617cd14f57d?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP25 结构体简单使用](https://www.nowcoder.com/practice/87c31efeb07b496cb88b137b54b98330?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP26 利用指针遍历数组](https://www.nowcoder.com/practice/fd4530358d57455da387df95a19d14c1?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP27 获取字符串长度](https://www.nowcoder.com/practice/9a2d212d23f5436c80607d5e68c6d12a?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP28 复制部分字符串](https://www.nowcoder.com/practice/8f5b923683b94e549880e3c8370e3e55?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP29 创建动态数组](https://www.nowcoder.com/practice/218b577112a24c23a41bdc01f28c18ac?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP30 数组元素处理](https://www.nowcoder.com/practice/bb840c11be674d01b582847a6921d384?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
