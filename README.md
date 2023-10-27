@@ -193,3 +193,16 @@ Record the code of the programming exercises completed each day
 | 牛客网 | [CPP28 复制部分字符串](https://www.nowcoder.com/practice/8f5b923683b94e549880e3c8370e3e55?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
 | 牛客网 | [CPP29 创建动态数组](https://www.nowcoder.com/practice/218b577112a24c23a41bdc01f28c18ac?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
 | 牛客网 | [CPP30 数组元素处理](https://www.nowcoder.com/practice/bb840c11be674d01b582847a6921d384?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+
+# 2023/10/27
+
+| 平台   | 题目                                                         | 解题编程语言 |
+| ------ | ------------------------------------------------------------ | ------------ |
+| 牛客网 | [CPP56 字符的个数](https://www.nowcoder.com/practice/dc28f2bf113a4058be888a5875206238?tpId=225&tqId=2367960&ru=%2Fpractice%2F9fecec9c776c436b8a03ba0684ac76a7&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP57 创建二维动态数组](https://www.nowcoder.com/practice/9e55995c4e5345878a31682e4048a0ed?tpId=225&tqId=2368099&ru=%2Fpractice%2Fdc28f2bf113a4058be888a5875206238&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP31 比较字符串大小](https://www.nowcoder.com/practice/963e455fdf7c4a4a997160abedc1951b?tpId=225&tqId=2186526&ru=%2Fpractice%2F9e55995c4e5345878a31682e4048a0ed&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP32 编写函数实现两数交换（指针方式）](https://www.nowcoder.com/practice/380c764bdef64ad696cdfa90bfe85156?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP33 统计字符串中子串出现的次数](https://www.nowcoder.com/practice/9eb684f845a446f3b121472de2ea75cd?tpId=225&tqId=2188001&ru=%2Fpractice%2F380c764bdef64ad696cdfa90bfe85156&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP34 使用字符函数统计字符串中各类型字符的个数](https://www.nowcoder.com/practice/31bdbc70188f48e995fa3cbef36613c8?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP35 函数实现计算一个数的阶乘](https://www.nowcoder.com/practice/df78ded035574202945d077cb619d0e7?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+
