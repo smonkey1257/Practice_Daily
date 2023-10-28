@@ -206,3 +206,14 @@ Record the code of the programming exercises completed each day
 | 牛客网 | [CPP34 使用字符函数统计字符串中各类型字符的个数](https://www.nowcoder.com/practice/31bdbc70188f48e995fa3cbef36613c8?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
 | 牛客网 | [CPP35 函数实现计算一个数的阶乘](https://www.nowcoder.com/practice/df78ded035574202945d077cb619d0e7?tpId=225&tags=&title=&difficulty=0&judgeStatus=0&rp=0&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
 
+# 2023/10/28
+
+| 平台   | 题目                                                         | 解题编程语言 |
+| ------ | ------------------------------------------------------------ | ------------ |
+| 牛客网 | [CPP36 不死神兔问题](https://www.nowcoder.com/practice/9fecec9c776c436b8a03ba0684ac76a7?tpId=225&tqId=2189028&ru=%2Fpractice%2Fdf78ded035574202945d077cb619d0e7&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP37 编写函数实现两数交换（引用方式）](https://www.nowcoder.com/practice/19ff3da82df740a9a662aaf59aa41c5d?tpId=225&tqId=2189105&ru=%2Fpractice%2F9fecec9c776c436b8a03ba0684ac76a7&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP58 编写函数实现字符串翻转（引用方式）](https://www.nowcoder.com/practice/46eb5bd3ebc544fc96d335c8cb7d30f1?tpId=225&tqId=2368119&ru=%2Fpractice%2F19ff3da82df740a9a662aaf59aa41c5d&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP43 加号运算符重载](https://www.nowcoder.com/practice/b9e27fcf61fc4013875409ed78e0960b?tpId=225&tqId=2191508&ru=%2Fpractice%2F46eb5bd3ebc544fc96d335c8cb7d30f1&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP64 重载小于号](https://www.nowcoder.com/practice/e717e94202304f34b7ed95b2d31fce6b?tpId=225&tqId=2368411&ru=%2Fpractice%2Fb9e27fcf61fc4013875409ed78e0960b&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP40 构造函数](https://www.nowcoder.com/practice/2809d720c7024f959b283f8444d9bdc9?tpId=225&tqId=2190803&ru=%2Fpractice%2Fe717e94202304f34b7ed95b2d31fce6b&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+| 牛客网 | [CPP41 浅拷贝和深拷贝](https://www.nowcoder.com/practice/535753110cbd4e8987adc2e67f392ab7?tpId=225&tqId=2190866&ru=%2Fpractice%2F1f36f85726474afbb103f65a24106824&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
