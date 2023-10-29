@@ -217,3 +217,12 @@ Record the code of the programming exercises completed each day
 | 牛客网 | [CPP64 重载小于号](https://www.nowcoder.com/practice/e717e94202304f34b7ed95b2d31fce6b?tpId=225&tqId=2368411&ru=%2Fpractice%2Fb9e27fcf61fc4013875409ed78e0960b&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
 | 牛客网 | [CPP40 构造函数](https://www.nowcoder.com/practice/2809d720c7024f959b283f8444d9bdc9?tpId=225&tqId=2190803&ru=%2Fpractice%2Fe717e94202304f34b7ed95b2d31fce6b&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
 | 牛客网 | [CPP41 浅拷贝和深拷贝](https://www.nowcoder.com/practice/535753110cbd4e8987adc2e67f392ab7?tpId=225&tqId=2190866&ru=%2Fpractice%2F1f36f85726474afbb103f65a24106824&qru=%2Fta%2Fprimary-grammar-cpp%2Fquestion-ranking&sourceUrl=https%3A%2F%2Fwww.nowcoder.com%2Fexam%2Foj) | C++          |
+# 2023/10/29
+
+| 平台     | 题目                                                         | 解题编程语言 |
+| -------- | ------------------------------------------------------------ | ------------ |
+| LeetCode | [1768. 交替合并字符串 ](https://leetcode.cn/problems/merge-strings-alternately/?envType=study-plan-v2&envId=programming-skills) | C++          |
+| LeetCode | [389. 找不同](https://leetcode.cn/problems/find-the-difference/description/?envType=study-plan-v2&envId=programming-skills) | C++          |
+| LeetCode | [28. 找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=study-plan-v2&envId=programming-skills) | C++          |
+| LeetCode | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/?envType=study-plan-v2&envId=programming-skills) | C++          |
+| LeetCode | [459. 重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/?envType=study-plan-v2&envId=programming-skills) | C++          |
