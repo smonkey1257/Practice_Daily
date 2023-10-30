@@ -226,3 +226,13 @@ Record the code of the programming exercises completed each day
 | LeetCode | [28. 找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=study-plan-v2&envId=programming-skills) | C++          |
 | LeetCode | [242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/?envType=study-plan-v2&envId=programming-skills) | C++          |
 | LeetCode | [459. 重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/?envType=study-plan-v2&envId=programming-skills) | C++          |
+
+# 2023/10/30
+
+| 平台     | 题目                                                         | 解题编程语言 |
+| -------- | ------------------------------------------------------------ | ------------ |
+| LeetCode | [283. 移动零](https://leetcode.cn/problems/move-zeroes/?envType=study-plan-v2&envId=programming-skills) | C            |
+| LeetCode | [66. 加一](https://leetcode.cn/problems/plus-one/?envType=study-plan-v2&envId=programming-skills) | C            |
+| LeetCode | [1822. 数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/?envType=study-plan-v2&envId=programming-skills) | C            |
+| LeetCode | [1502. 判断能否形成等差数列](https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/description/?envType=study-plan-v2&envId=programming-skills) | C            |
+| LeetCode | [896. 单调数列](https://leetcode.cn/problems/monotonic-array/?envType=study-plan-v2&envId=programming-skills) | C            |
