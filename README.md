@@ -236,3 +236,11 @@ Record the code of the programming exercises completed each day
 | LeetCode | [1822. 数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array/?envType=study-plan-v2&envId=programming-skills) | C            |
 | LeetCode | [1502. 判断能否形成等差数列](https://leetcode.cn/problems/can-make-arithmetic-progression-from-sequence/description/?envType=study-plan-v2&envId=programming-skills) | C            |
 | LeetCode | [896. 单调数列](https://leetcode.cn/problems/monotonic-array/?envType=study-plan-v2&envId=programming-skills) | C            |
+
+# 2023/10/31
+
+| 平台     | 题目                                                         | 解题编程语言 |
+| -------- | ------------------------------------------------------------ | ------------ |
+| LeetCode | [58. 最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/?envType=study-plan-v2&envId=programming-skills) | C            |
+| LeetCode | [709. 转换成小写字母](https://leetcode.cn/problems/to-lower-case/?envType=study-plan-v2&envId=programming-skills) | C            |
+| LeetCode | [50. Pow(x, n)](https://leetcode.cn/problems/powx-n/?envType=study-plan-v2&envId=programming-skills) | C            |
