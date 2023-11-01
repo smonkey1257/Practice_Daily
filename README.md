@@ -244,3 +244,15 @@ Record the code of the programming exercises completed each day
 | LeetCode | [58. 最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/?envType=study-plan-v2&envId=programming-skills) | C            |
 | LeetCode | [709. 转换成小写字母](https://leetcode.cn/problems/to-lower-case/?envType=study-plan-v2&envId=programming-skills) | C            |
 | LeetCode | [50. Pow(x, n)](https://leetcode.cn/problems/powx-n/?envType=study-plan-v2&envId=programming-skills) | C            |
+
+# 2023/10/31
+
+| 平台     | 题目                                                         | 解题编程语言 |
+| -------- | ------------------------------------------------------------ | ------------ |
+| LeetCode | [2235. 两整数相加](https://leetcode.cn/problems/add-two-integers/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [2469. 温度转换](https://leetcode.cn/problems/convert-the-temperature/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [2413. 最小偶倍数](https://leetcode.cn/problems/smallest-even-multiple/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [2236. 判断根结点是否等于子结点之和](https://leetcode.cn/problems/root-equals-sum-of-children/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [1486. 数组异或操作](https://leetcode.cn/problems/xor-operation-in-an-array/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [1512. 好数对的数目](https://leetcode.cn/problems/number-of-good-pairs/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [1534. 统计好三元组](https://leetcode.cn/problems/count-good-triplets/?envType=study-plan-v2&envId=primers-list) | C            |
