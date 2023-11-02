@@ -245,7 +245,7 @@ Record the code of the programming exercises completed each day
 | LeetCode | [709. 转换成小写字母](https://leetcode.cn/problems/to-lower-case/?envType=study-plan-v2&envId=programming-skills) | C            |
 | LeetCode | [50. Pow(x, n)](https://leetcode.cn/problems/powx-n/?envType=study-plan-v2&envId=programming-skills) | C            |
 
-# 2023/10/31
+# 2023/11/01
 
 | 平台     | 题目                                                         | 解题编程语言 |
 | -------- | ------------------------------------------------------------ | ------------ |
@@ -256,3 +256,13 @@ Record the code of the programming exercises completed each day
 | LeetCode | [1486. 数组异或操作](https://leetcode.cn/problems/xor-operation-in-an-array/?envType=study-plan-v2&envId=primers-list) | C            |
 | LeetCode | [1512. 好数对的数目](https://leetcode.cn/problems/number-of-good-pairs/?envType=study-plan-v2&envId=primers-list) | C            |
 | LeetCode | [1534. 统计好三元组](https://leetcode.cn/problems/count-good-triplets/?envType=study-plan-v2&envId=primers-list) | C            |
+
+# 2023/11/02
+
+| 平台     | 题目                                                         | 解题编程语言 |
+| -------- | ------------------------------------------------------------ | ------------ |
+| LeetCode | [258. 各位相加](https://leetcode.cn/problems/add-digits/description/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [1281. 整数的各位积和之差](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [231. 2 的幂](https://leetcode.cn/problems/power-of-two/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [326. 3 的幂](https://leetcode.cn/problems/power-of-three/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [263. 丑数](https://leetcode.cn/problems/ugly-number/?envType=study-plan-v2&envId=primers-list) | C            |
