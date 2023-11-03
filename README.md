@@ -266,3 +266,10 @@ Record the code of the programming exercises completed each day
 | LeetCode | [231. 2 的幂](https://leetcode.cn/problems/power-of-two/?envType=study-plan-v2&envId=primers-list) | C            |
 | LeetCode | [326. 3 的幂](https://leetcode.cn/problems/power-of-three/?envType=study-plan-v2&envId=primers-list) | C            |
 | LeetCode | [263. 丑数](https://leetcode.cn/problems/ugly-number/?envType=study-plan-v2&envId=primers-list) | C            |
+
+# 2023/11/03
+
+| 平台     | 题目                                                         | 解题编程语言 |
+| -------- | ------------------------------------------------------------ | ------------ |
+| LeetCode | [1470. 重新排列数组](https://leetcode.cn/problems/shuffle-the-array/?envType=study-plan-v2&envId=primers-list) | C            |
+| LeetCode | [867. 转置矩阵](https://leetcode.cn/problems/transpose-matrix/description/?envType=study-plan-v2&envId=primers-list) | C            |
