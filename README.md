@@ -213,3 +213,21 @@ Record the code of the programming exercises completed each day
 | LeetCode | [1422. 分割字符串的最大得分](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/?envType=study-plan-v2&envId=primers-list) | C            |
 | LeetCode | [2586. 统计范围内的元音字符串数](https://leetcode.cn/problems/count-the-number-of-vowel-strings-in-range/?envType=study-plan-v2&envId=primers-list) | C            |
 | LeetCode | [852. 山脉数组的峰顶索引](https://leetcode.cn/problems/peak-index-in-a-mountain-array/?envType=study-plan-v2&envId=primers-list) | C            |
+
+# 2023/11/06
+
+| 平台 | 题目                                                         | 解题编程语言 |
+| ---- | ------------------------------------------------------------ | ------------ |
+| PTA  | [6-1 简单输出整数](https://pintia.cn/problem-sets/14/exam/problems/733?type=6&page=0) | C            |
+| PTA  | [6-2 多项式求值](https://pintia.cn/problem-sets/14/exam/problems/734?type=6&page=0) | C            |
+| PTA  | [6-3 简单求和](https://pintia.cn/problem-sets/14/exam/problems/735?type=6&page=0) | C            |
+| PTA  | [6-4 求自定类型元素的平均](https://pintia.cn/problem-sets/14/exam/problems/736?type=6&page=0) | C            |
+| PTA  | [6-5 求自定类型元素的最大值](https://pintia.cn/problem-sets/14/exam/problems/737?type=6&page=0) | C            |
+| PTA  | [6-6 求单链表结点的阶乘和](https://pintia.cn/problem-sets/14/exam/problems/738?type=6&page=0) | C            |
+| PTA  | [6-7 统计某类完全平方数](https://pintia.cn/problem-sets/14/exam/problems/739?type=6&page=0) | C            |
+| PTA  | [6-8 简单阶乘计算](https://pintia.cn/problem-sets/14/exam/problems/740?type=6&page=0) | C            |
+| PTA  | [6-9 统计个位数字](https://pintia.cn/problem-sets/14/exam/problems/741?type=6&page=0) | C            |
+| PTA  | [6-10 阶乘计算升级版](https://pintia.cn/problem-sets/14/exam/problems/742?type=6&page=0) | C            |
+| PTA  | [6-11 求自定类型元素序列的中位数](https://pintia.cn/problem-sets/14/exam/problems/743?type=6&page=0) | C            |
+| PTA  | [6-12 判断奇偶性](https://pintia.cn/problem-sets/14/exam/problems/744?type=6&page=0) | C            |
+| PTA  | [6-13 折半查找](https://pintia.cn/problem-sets/14/exam/problems/44932?type=6&page=0) | C            |
