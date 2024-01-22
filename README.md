@@ -231,3 +231,17 @@ Record the code of the programming exercises completed each day
 | PTA  | [6-11 求自定类型元素序列的中位数](https://pintia.cn/problem-sets/14/exam/problems/743?type=6&page=0) | C            |
 | PTA  | [6-12 判断奇偶性](https://pintia.cn/problem-sets/14/exam/problems/744?type=6&page=0) | C            |
 | PTA  | [6-13 折半查找](https://pintia.cn/problem-sets/14/exam/problems/44932?type=6&page=0) | C            |
+
+# 2023/01/21
+
+| 平台 | 题目                                                         | 解题编程语言 |
+| ---- | ------------------------------------------------------------ | ------------ |
+| LeetCode  | [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/submissions/) | C++          |
+| LeetCode  | [43. 字符串相乘](https://leetcode.cn/problems/multiply-strings/description/) | C++          |
+
+# 2023/01/22
+
+| 平台 | 题目                                                         | 解题编程语言 |
+| ---- | ------------------------------------------------------------ | ------------ |
+| LeetCode  | [137. 只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/description/) | C++          |
+| LeetCode  | [260. 只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/description/) | C++          |
